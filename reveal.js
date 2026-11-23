@@ -3,7 +3,7 @@
 // Same /exec web address as script.js.
 // =============================================================
 
-const API = "PASTE YOUR /exec WEB ADDRESS HERE";
+const API = "https://script.google.com/macros/s/AKfycbxhtHoTdaoLeH6v-N65jEhVmhPw9w_TMJ6rLqi4mo42r3Q8voLV7xWFuqfQzML3z2IQ/exec";
 
 // 1. Form submit: stop the reload, read the name.
 

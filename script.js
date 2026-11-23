@@ -3,7 +3,7 @@
 // Paste your /exec web address below. Write the rest yourselves.
 // =============================================================
 
-const API = "PASTE YOUR /exec WEB ADDRESS HERE";
+const API = "https://script.google.com/macros/s/AKfycbxhtHoTdaoLeH6v-N65jEhVmhPw9w_TMJ6rLqi4mo42r3Q8voLV7xWFuqfQzML3z2IQ/exec";
 
 let names = [];
 
